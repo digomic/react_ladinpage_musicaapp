@@ -69,6 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+![Captura de pantalla 2022-04-11 145440](https://user-images.githubusercontent.com/38227130/162868892-e4e54046-ab8a-4e5f-ae77-7c3d4e8e44c4.png)
+
 
 technologies we use:
 react
