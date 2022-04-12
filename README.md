@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 technologies we use:
-react
-tailwindcss
-framer-motion
-react-visibility-sensor
+react,
+tailwindcss,
+framer-motion,
+react-visibility-sensor,
